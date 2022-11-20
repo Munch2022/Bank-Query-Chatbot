@@ -73,4 +73,9 @@ Categories-	7
 
 •	With the good accuracy the chatbot web application is able to give 90% correct response to user's question 
 
+## Project Flow design along with Flask app architecture : 
+
+![image](https://user-images.githubusercontent.com/111883941/202910336-2315fa1b-0f34-4a21-9587-68c626931f41.png)
+
+
 
