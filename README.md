@@ -48,7 +48,7 @@ Categories-	7
         v. Text Normalization (Stemming/lemmatization)- this is based on stemming and lemmatization
 
 
-•	Implemented Feature Extraction techniques; 1.	Used vectorization on the independent column, Used Label Encoder on denpendent column to get the string values in numeric form, Used dimensionality reduction on vectorized variable and plotted the graph to see how all 7 classes are scattered 
+•	Implemented Feature Extraction techniques; Used vectorization on the independent column, Used Label Encoder on denpendent column to get the string values in numeric form, Used dimensionality reduction on vectorized variable and plotted the graph to see how all 7 classes are scattered 
   
   ![image](https://user-images.githubusercontent.com/111883941/202909538-c39abef3-f75f-4c0c-b790-ced9bf7812c8.png)
 
