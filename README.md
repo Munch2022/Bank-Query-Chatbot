@@ -7,7 +7,8 @@ A banking chatbot with FAQ. The user interacts with a chatbot via the flask app 
 Chatbot accepts the customer's/user's bank related queries in raw text. User input is processed with Natural Language Understanding (NLU),  pre-processing of text is handled and bot manages to reply the user with an appropriate answers/responses. 
 
 ## About the Dataset : 
-The csv file consists a raw data from baking queries. The dataset consists queries and responses along with 7 different categories depending on the type of queries.
+The csv file consists a raw data from HDFC baking queries. These queries are recorded from realtime BPO call tracks made from bank customers
+The dataset consists queries and responses along with 7 different categories depending on the type of queries.
 
 The dataset consists --
 
@@ -76,6 +77,15 @@ Categories-	7
 ## Project Flow design along with Flask app architecture : 
 
 ![image](https://user-images.githubusercontent.com/111883941/202910336-2315fa1b-0f34-4a21-9587-68c626931f41.png)
+
+## Screenshot of a webapp :
+Question => 
+
+![image](https://user-images.githubusercontent.com/111883941/204219078-fdac9ff7-d919-4733-a67b-7c9d55cc4a19.png)
+
+Answer => 
+
+![image](https://user-images.githubusercontent.com/111883941/204219109-a1eeb21f-c572-40e3-aea6-862a76552191.png)
 
 
 
