@@ -83,4 +83,7 @@ App on local host =>
 
 ![image](https://user-images.githubusercontent.com/111883941/209337886-a9f11424-c439-4a01-aeb2-927793f9f6b8.png)
 
+## Azure deployment of this app : 
+(https://github.com/Munch2022/Azuredeployment_Bankingtrail1) 
+
 
