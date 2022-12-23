@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+		<h3>Bank Query Chatbot</h3>
+		</div>
+		<h2>Welcome to M&N Bank Query portal</h2>
+		
+	</div>
+	</header>
+	<p style="color:rgb(2, 2, 20);font-size:20;text-align: left;"><b>Result for Query</b></p>
+	<div class="results">
+
+		
+		<br>
+		<br>
+		{{ prediction }}
+	
+	
+	
+
+	</div>
+
+</body>
+</html>
